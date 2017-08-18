@@ -1,5 +1,7 @@
 # Preact Boilerplate / Starter Kit [![Build Status](https://travis-ci.org/developit/preact-boilerplate.svg?branch=master)](https://travis-ci.org/developit/preact-boilerplate) [![Preact Slack Community](https://preact-slack.now.sh/badge.svg)](https://preact-slack.now.sh)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leecade/preact-boilerplate.svg)](https://greenkeeper.io/)
+
 :guitar: Ready-to-rock [Preact] starter project, powered by [webpack]. **[(View Demo)](https://preact-boilerplate.surge.sh)**
 
 > ### :rocket: Note: We now recommend [Preact CLI](https://github.com/developit/preact-cli/) for new projects.
